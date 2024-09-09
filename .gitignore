@@ -1,0 +1,15 @@
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+
+# Ignorar arquivos específicos do editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar arquivos de backup
+*.bak
+
+# Ignorar arquivos SQL gerados
+*.sql.gz

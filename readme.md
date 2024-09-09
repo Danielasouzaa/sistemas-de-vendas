@@ -54,3 +54,6 @@ Este projeto implementa um sistema de banco de dados para gerenciar produtos, cl
 1. **Clonar o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/sistema-vendas.git
+   
+Você pode personalizar o conteúdo do `README.md` conforme necessário e ajustar o `.gitignore` para incluir quaisquer outros arquivos específicos do seu ambiente de desenvolvimento.
+
